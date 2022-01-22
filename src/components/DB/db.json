@@ -1,43 +1,43 @@
 {
   "books": [
     {
-      "title": "title1",
-      "author": "author1",
-      "publisher": "publisher1",
+      "title": "Pan Mateusz",
+      "author": "Juliusz Mickiewicz",
+      "publisher": "Nowa Wielka Polska",
       "publication_date": "2012-06-13",
-      "count": 2,
+      "count": "38000000",
       "id": 1
     },
     {
-      "title": "title2",
-      "author": "author2",
-      "publisher": "publisher2",
+      "title": "Historia Partii i Nowej Polski",
+      "author": "Przemysław Czarnek",
+      "publisher": "Nowa Wielka Polska",
       "publication_date": "2014-02-07",
-      "count": 1,
+      "count": "60000000",
       "id": 2
     },
     {
-      "title": "title3",
-      "author": "author3",
-      "publisher": "publisher3",
-      "publication_date": "2008-09-02",
-      "count": 3,
+      "title": "Polska jako lider gospodarczy Europy cz. I : 2015",
+      "author": "Jacek Sasin",
+      "publisher": "Polski Instytut Naukowy",
+      "publication_date": "2023-09-02",
+      "count": "70000000",
       "id": 3
     },
     {
-      "title": "title4",
-      "author": "author4",
-      "publisher": "publisher4",
-      "publication_date": "2019-12-06",
-      "count": 7,
+      "title": "Polska jako lider gospodarczy Europy cz. II : Świadczenia Socjalne Ratunkiem Narodu",
+      "author": "Jacek Sasin",
+      "publisher": "Polski Instytut Naukowy",
+      "publication_date": "2024-12-06",
+      "count": "70000000",
       "id": 4
     },
     {
-      "title": "title5",
-      "author": "author5",
-      "publisher": "publisher5",
-      "publication_date": "2021-05-29",
-      "count": "9",
+      "title": "Polska jako lider gospodarczy Europy cz. III : Nowy Ład",
+      "author": "Jacek Sasin",
+      "publisher": "Polski Instytut Naukowy",
+      "publication_date": "2025-05-29",
+      "count": "70000000",
       "id": 5
     }
   ]
