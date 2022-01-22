@@ -1,0 +1,44 @@
+{
+  "books": [
+    {
+      "title": "title1",
+      "author": "author1",
+      "publisher": "publisher1",
+      "publication_date": "2012-06-13",
+      "count": 2,
+      "id": 1
+    },
+    {
+      "title": "title2",
+      "author": "author2",
+      "publisher": "publisher2",
+      "publication_date": "2014-02-07",
+      "count": 1,
+      "id": 2
+    },
+    {
+      "title": "title3",
+      "author": "author3",
+      "publisher": "publisher3",
+      "publication_date": "2008-09-02",
+      "count": 3,
+      "id": 3
+    },
+    {
+      "title": "title4",
+      "author": "author4",
+      "publisher": "publisher4",
+      "publication_date": "2019-12-06",
+      "count": 7,
+      "id": 4
+    },
+    {
+      "title": "title5",
+      "author": "author5",
+      "publisher": "publisher5",
+      "publication_date": "2021-05-29",
+      "count": "9",
+      "id": 5
+    }
+  ]
+}
